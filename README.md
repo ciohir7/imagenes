@@ -1,1 +1,1 @@
-# imagenes
+revisa el archivo debian.txt
